@@ -25,25 +25,6 @@ Docker Compose: Installation Guide
 Getting Started
 To get started with the Cloud Native Monitoring Application System, follow these steps:
 
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/cloud-native-monitoring.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd cloud-native-monitoring
-Customize the configuration files according to your needs.
-
-Start the monitoring stack:
-
-bash
-Copy code
-docker-compose up -d
-Access the Grafana dashboard at http://localhost:3000 and Prometheus at http://localhost:9090.
-
 Usage
 Provide detailed instructions on how to use your monitoring system. Include examples, screenshots, and any other relevant information to assist users in effectively utilizing the application.
 
