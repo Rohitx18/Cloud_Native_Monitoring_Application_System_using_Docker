@@ -24,18 +24,3 @@ Docker: Installation Guide
 Docker Compose: Installation Guide
 Getting Started
 To get started with the Cloud Native Monitoring Application System, follow these steps:
-
-Usage
-Provide detailed instructions on how to use your monitoring system. Include examples, screenshots, and any other relevant information to assist users in effectively utilizing the application.
-
-Docker Compose Configuration
-Explain the configuration options available in the docker-compose.yml file and any environment variables that can be used to customize the deployment.
-
-Contributing
-We welcome contributions from the community! If you want to contribute to this project, please follow these guidelines:
-
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and ensure the code is well-documented.
-Submit a pull request.
-For major changes, please open an issue first to discuss the proposed changes.
